@@ -460,4 +460,4 @@ input[type=checkbox]{
     margin: 10px 5px 10px 0;
 }
 
-*:focus {outline: none;} /*Removes blue border line around form inputs that google automatically displays when selecting form element*/
+*:focus {outline: none;} /*Removes blue border line around form inputs that google automatically displays when selecting form elements*/
